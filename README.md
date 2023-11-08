@@ -128,10 +128,8 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 
 ```
 ## OUTPUT:
+![output](https://github.com/RAVENPRAVIN/serversideprocessing/assets/146820534/0a855a4f-2fa7-468e-9c87-1b7a21595648)
 
-### Home Page:
-
-![output](output.png)
 
 ## Result:
 The program area of prism is excuted sucessfully
